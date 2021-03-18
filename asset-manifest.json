@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iReportSource/static/css/main.8b27a2aa.chunk.css",
+    "main.js": "/iReportSource/static/js/main.9037b64f.chunk.js",
+    "main.js.map": "/iReportSource/static/js/main.9037b64f.chunk.js.map",
+    "runtime-main.js": "/iReportSource/static/js/runtime-main.4c840d04.js",
+    "runtime-main.js.map": "/iReportSource/static/js/runtime-main.4c840d04.js.map",
+    "static/js/2.c627a370.chunk.js": "/iReportSource/static/js/2.c627a370.chunk.js",
+    "static/js/2.c627a370.chunk.js.map": "/iReportSource/static/js/2.c627a370.chunk.js.map",
+    "static/js/3.8e4df014.chunk.js": "/iReportSource/static/js/3.8e4df014.chunk.js",
+    "static/js/3.8e4df014.chunk.js.map": "/iReportSource/static/js/3.8e4df014.chunk.js.map",
+    "index.html": "/iReportSource/index.html",
+    "static/css/main.8b27a2aa.chunk.css.map": "/iReportSource/static/css/main.8b27a2aa.chunk.css.map",
+    "static/js/2.c627a370.chunk.js.LICENSE.txt": "/iReportSource/static/js/2.c627a370.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c840d04.js",
+    "static/js/2.c627a370.chunk.js",
+    "static/css/main.8b27a2aa.chunk.css",
+    "static/js/main.9037b64f.chunk.js"
+  ]
+}
