@@ -1,4 +1,5 @@
 import React from "react";
+//  Simple Hearder component
 const Header = () => {
     return (
         <div className="header">
