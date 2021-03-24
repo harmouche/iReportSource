@@ -14,7 +14,7 @@ const TodoList = ({todos, setTodos, setEditTodo}) => {
         )
     }; 
     
-    // Delete item by deatatching the id number
+    // Delete item by detaching the id number
     const handleDelete = ({ id }) => {
         setTodos(todos.filter((todo) => todo.id !== id));
     };
