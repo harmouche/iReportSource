@@ -1,6 +1,6 @@
 import React from "react";
 
-const TodoList = ({todos, setTodos, setEditTodo}) => {
+const TodoList = ({todos, setTodos, setEditTodo, editTodo}) => {
     
     // Mark item as "Completed"
     const handleComplete = (todo) => {
@@ -17,6 +17,8 @@ const TodoList = ({todos, setTodos, setEditTodo}) => {
     // Delete item by detaching the id number
     const handleDelete = ({ id }) => {
         setTodos(todos.filter((todo) => todo.id !== id));
+        if (editTodo?.id === id) {
+        setEditTodo(null)};
     };
 
     // Edit item helper function
